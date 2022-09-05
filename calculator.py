@@ -20,7 +20,11 @@ def mul(a, b):
     answer = a * b
     print(str(a) + " * " + str(b) + " = " + str(answer))
     #the result will show the values of a and b and the value of the mul
+
+
+def div(a, b):
+    answer = a / b
+    print(str(a) + " / " + str(b) + " = " + str(answer))
+    #the result will show the values of a and b and the value of the div
     
-
-
 
